@@ -30,7 +30,6 @@
 
 .page-detail-block > .page-detail-image > img {
   width: 100%;
-  height: 500px;
 }
 
 .page-detail-block > .page-detail-image > div {
@@ -181,7 +180,7 @@ button {
   display: block;
 }
 
-.product-list .item .inner .articul {
+.product-list .item .inner .aticle {
   padding: 10px 5px 10px 20px;
   color: #111111;
   text-overflow: ellipsis;
@@ -194,7 +193,7 @@ button {
   color: white;
 }
 
-.product-list .item .inner .articul span {
+.product-list .item .inner .aticle span {
   color: #555555;
 }
 

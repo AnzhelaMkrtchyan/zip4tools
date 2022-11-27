@@ -30,7 +30,6 @@
 
 .page-detail-block > .page-detail-image > img {
   width: 100%;
-  height: 500px;
 }
 
 .page-detail-block > .page-detail-image > div {
@@ -216,7 +215,7 @@ button {
   box-shadow: 0 0 5px rgb(0 0 0 / 40%);
 }
 
-.inner .articul {
+.inner .aticle {
   padding: 10px 5px 10px 20px;
   color: #111111;
   text-overflow: ellipsis;
@@ -229,7 +228,7 @@ button {
   color: white;
 }
 
-.inner .articul span {
+.inner .aticle span {
   color: #555555;
 }
 

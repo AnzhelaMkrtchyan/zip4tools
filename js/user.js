@@ -46,9 +46,9 @@ function drawProduct(data, circle) {
 			<div class="status ${
         data.data.status ? "status-347 fa fa-check" : "status-348 fa fa-times"
       }">${data.data.status ? "В наличии" : "Нет в наличии"}</div>
-			<div class="articul">
+			<div class="aticle">
 				<span>Артикул:</span>
-				${data.data.articul}
+				${data.data.aticle}
 			</div>
 		</a>
 		<a href="#${data.data.status ? "basket" : "bell"}" class="${
@@ -142,3 +142,4 @@ async function start() {
 }
 
 start();
+

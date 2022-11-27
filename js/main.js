@@ -45,3 +45,4 @@ pageDetailImage.addEventListener("click", (e) => {
   circleHover();
   drawTable(coordinates);
 });
+
